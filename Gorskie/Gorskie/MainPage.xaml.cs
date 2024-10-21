@@ -15,9 +15,23 @@ namespace Gorskie
             InitializeComponent();
         }
 
-        private void Button_Clicked(object sender, EventArgs e)
+        private async void Button_Clicked(object sender, EventArgs e)
         {
+            string imie = usernameEntry.Text;
+            string haslo = passwordEntry.Text;
+
+            if (imie == "admin" && haslo == "123")
+            {
+                await Navigation.PushAsync(new MapPage());
+            }
+            else
+            {
+                messageLabel.Text = "Podano zle dane";
+            }
+
 
         }
+
+
     }
 }

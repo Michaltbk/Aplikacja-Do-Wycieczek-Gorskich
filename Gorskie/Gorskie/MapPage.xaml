@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Gorskie.MapPage"
+             NavigationPage.HasNavigationBar="False">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="FillAndExpand">
+
+            <Label Text="Mapa"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand" />
+
+            <Grid VerticalOptions="End" Padding="10" BackgroundColor="LightGray">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+
+                <Button Text="Mapa"
+                    x:Name="mapButton"
+                    Grid.Column="1"
+                    Clicked="mapButton_Clicked" />
+
+                <Button Text="Ustawienia"
+                    x:Name="settingsButton"
+                    Grid.Column="0"
+                    Clicked="settingsButton_Clicked" />
+
+                <Button Text="Znajomi"
+                    x:Name="friendsButton"
+                    Grid.Column="2"
+                    Clicked="friendsButton_Clicked" />
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
