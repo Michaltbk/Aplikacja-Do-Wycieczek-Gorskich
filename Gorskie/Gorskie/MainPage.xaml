@@ -17,8 +17,8 @@
                IsPassword="True" />
 
         <Button Text="Login"
-                Clicked="" />
-
+                Clicked="Button_Clicked" />
+    
         <Label x:Name="messageLabel"
                TextColor="Red"
                HorizontalOptions="Center" />

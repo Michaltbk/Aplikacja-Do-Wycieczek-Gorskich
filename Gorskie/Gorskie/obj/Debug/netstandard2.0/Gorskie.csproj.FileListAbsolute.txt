@@ -1,0 +1,10 @@
+D:\REPOS\Gorskie\Gorskie\Gorskie\obj\Debug\netstandard2.0\Gorskie.csproj.AssemblyReference.cache
+D:\REPOS\Gorskie\Gorskie\Gorskie\obj\Debug\netstandard2.0\Gorskie.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOS\Gorskie\Gorskie\Gorskie\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\REPOS\Gorskie\Gorskie\Gorskie\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\REPOS\Gorskie\Gorskie\Gorskie\obj\Debug\netstandard2.0\Gorskie.AssemblyInfoInputs.cache
+D:\REPOS\Gorskie\Gorskie\Gorskie\obj\Debug\netstandard2.0\Gorskie.AssemblyInfo.cs
+D:\REPOS\Gorskie\Gorskie\Gorskie\obj\Debug\netstandard2.0\Gorskie.csproj.CoreCompileInputs.cache
+D:\REPOS\Gorskie\Gorskie\Gorskie\obj\Debug\netstandard2.0\Gorskie.dll
+D:\REPOS\Gorskie\Gorskie\Gorskie\obj\Debug\netstandard2.0\refint\Gorskie.dll
+D:\REPOS\Gorskie\Gorskie\Gorskie\obj\Debug\netstandard2.0\Gorskie.pdb
