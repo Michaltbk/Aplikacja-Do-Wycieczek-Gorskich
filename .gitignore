@@ -193,3 +193,8 @@ UpgradeLog*.htm
 FakesAssemblies/
 
 .vscode/settings.json
+/.vs/Gorskie/DesignTimeBuild/.dtbcache.v2
+/.vs/Gorskie/v17/.futdcache.v2
+/.vs/Gorskie/v17/.suo
+/Gorskie/Gorskie/bin/Debug/netstandard2.0/ref/Gorskie.dll
+/Gorskie/Gorskie/bin/Debug/netstandard2.0/Gorskie.pdb
