@@ -15,6 +15,8 @@ namespace Gorskie
         public Glowna()
         {
             InitializeComponent();
+
+            CurrentPage = Children.FirstOrDefault(page=> page.Title == "Mapa");
         }
     }
 }
