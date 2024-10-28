@@ -193,3 +193,4 @@ UpgradeLog*.htm
 FakesAssemblies/
 
 .vscode/settings.json
+/.vs/Gorskie/v17/.suo
