@@ -22,7 +22,7 @@ namespace Gorskie
 
             if (imie == "admin" && haslo == "123")
             {
-                await Navigation.PushAsync(new MapPage());
+                await Navigation.PushAsync(new Glowna());
             }
             else
             {
