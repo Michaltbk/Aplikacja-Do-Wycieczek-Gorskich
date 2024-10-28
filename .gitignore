@@ -196,3 +196,4 @@ FakesAssemblies/
 /.vs/Gorskie/v17/.suo
 /Gorskie/Gorskie.Android/obj/Debug/130/devices.cache
 /.vs/Gorskie/DesignTimeBuild/.dtbcache.v2
+/Gorskie/Gorskie.Android/bin/Debug/Gorskie.Android.dll

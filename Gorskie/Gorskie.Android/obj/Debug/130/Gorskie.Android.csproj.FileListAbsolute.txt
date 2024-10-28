@@ -636,3 +636,8 @@ D:\REPOS\Gorskie\Gorskie\Gorskie.Android\obj\Debug\130\stamp\_ConvertResourcesCa
 D:\REPOS\Gorskie\Gorskie\Gorskie.Android\obj\Debug\130\stamp\_GenerateJavaStubs.stamp
 D:\REPOS\Gorskie\Gorskie\Gorskie.Android\obj\Debug\130\stamp\_GeneratePackageManagerJava.stamp
 D:\REPOS\Gorskie\Gorskie\Gorskie.Android\obj\Debug\130\stamp\_ResolveLibraryProjectImports.stamp
+D:\REPOS\Gorskie\Gorskie\Gorskie.Android\obj\Debug\130\android\assets\Firebase.dll
+D:\REPOS\Gorskie\Gorskie\Gorskie.Android\obj\Debug\130\android\assets\LiteDB.dll
+D:\REPOS\Gorskie\Gorskie\Gorskie.Android\obj\Debug\130\android\assets\Newtonsoft.Json.dll
+D:\REPOS\Gorskie\Gorskie\Gorskie.Android\obj\Debug\130\android\assets\System.Reactive.dll
+D:\REPOS\Gorskie\Gorskie\Gorskie.Android\obj\Debug\130\android\assets\System.Runtime.InteropServices.WindowsRuntime.dll

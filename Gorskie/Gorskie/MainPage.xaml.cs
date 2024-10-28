@@ -44,7 +44,7 @@ namespace Gorskie
 
                 if (variableName.Object.MyName == name && variableName.Object.MyPassword == password)
                 {
-                    await Navigation.PushAsync(new MapPage());
+                    await Navigation.PushAsync(new Glowna());
                     return;
                 }
             }
