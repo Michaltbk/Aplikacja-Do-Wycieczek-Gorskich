@@ -20,9 +20,7 @@
 
         <Button Text="Zaloguj"
                 Clicked="Button_Clicked" />
-
-        <Button Margin="2" Text="Zarejestruj się" Clicked="Button_Register"></Button>
-
+    
         <Label x:Name="messageLabel"
                TextColor="Red"
                HorizontalOptions="Center" />
