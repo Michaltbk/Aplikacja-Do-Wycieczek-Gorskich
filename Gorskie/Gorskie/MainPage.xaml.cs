@@ -5,6 +5,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
+using Xamarin.Forms.PlatformConfiguration;
+using Xamarin.Forms.PlatformConfiguration.AndroidSpecific;
 
 namespace Gorskie
 {
@@ -22,7 +24,7 @@ namespace Gorskie
 
             if (imie == "admin" && haslo == "123")
             {
-                await Navigation.PushAsync(new MapPage());
+                await Navigation.PushAsync(new Glowna());
             }
             else
             {

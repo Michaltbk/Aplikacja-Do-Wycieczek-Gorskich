@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Gorskie.Glowna"
+             xmlns:local="clr-namespace:Gorskie"
+             BarBackgroundColor="Black"
+             SelectedTabColor="green"
+             UnselectedTabColor="White" 
+             xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
+             android:TabbedPage.ToolbarPlacement="Bottom"
+             NavigationPage.HasNavigationBar="False">
+
+    <ContentPage Title="Profil">
+        <Label HorizontalOptions="Center" VerticalOptions="Center">Profil</Label>
+    </ContentPage>
+
+    <ContentPage Title="Mapa">
+        <Label HorizontalOptions="Center" VerticalOptions="Center">Mapa</Label>
+    </ContentPage>
+
+    <ContentPage Title="Znajomi">
+        <Label HorizontalOptions="Center" VerticalOptions="Center">Znajomi</Label>
+    </ContentPage>
+</TabbedPage>
