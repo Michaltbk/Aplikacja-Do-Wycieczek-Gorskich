@@ -3782,11 +3782,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\REPOS\\Gorskie\\Gorskie\\Gorskie.Android\\Gorskie.Android.csproj",
+      "projectUniqueName": "D:\\GITHUB REPO\\Aplikacja-Do-Wycieczek-Gorskich\\Gorskie\\Gorskie.Android\\Gorskie.Android.csproj",
       "projectName": "Gorskie.Android",
-      "projectPath": "D:\\REPOS\\Gorskie\\Gorskie\\Gorskie.Android\\Gorskie.Android.csproj",
+      "projectPath": "D:\\GITHUB REPO\\Aplikacja-Do-Wycieczek-Gorskich\\Gorskie\\Gorskie.Android\\Gorskie.Android.csproj",
       "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-      "outputPath": "D:\\REPOS\\Gorskie\\Gorskie\\Gorskie.Android\\obj\\",
+      "outputPath": "D:\\GITHUB REPO\\Aplikacja-Do-Wycieczek-Gorskich\\Gorskie\\Gorskie.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3807,8 +3807,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "D:\\REPOS\\Gorskie\\Gorskie\\Gorskie\\Gorskie.csproj": {
-              "projectPath": "D:\\REPOS\\Gorskie\\Gorskie\\Gorskie\\Gorskie.csproj"
+            "D:\\GITHUB REPO\\Aplikacja-Do-Wycieczek-Gorskich\\Gorskie\\Gorskie\\Gorskie.csproj": {
+              "projectPath": "D:\\GITHUB REPO\\Aplikacja-Do-Wycieczek-Gorskich\\Gorskie\\Gorskie\\Gorskie.csproj"
             }
           }
         }

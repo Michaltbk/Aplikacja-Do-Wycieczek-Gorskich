@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DLobXm0xjZEN0ON+lQGn5BCeJBiOIseNZuzUUF3MzjI6YtWDqtixwrhqjNm2k8804g56HOhdYcLalrnOsvPOTg==",
+  "dgSpecHash": "z0DlJmQCl5wd69E7t30SI2hsrbVQU1v1+Wh+qn7RUBoOH2biK+qGnpAWolkbmfRP1O7popNjss1b1OmhXAnt/A==",
   "success": true,
-  "projectFilePath": "D:\\REPOS\\Gorskie\\Gorskie\\Gorskie.Android\\Gorskie.Android.csproj",
+  "projectFilePath": "D:\\GITHUB REPO\\Aplikacja-Do-Wycieczek-Gorskich\\Gorskie\\Gorskie.Android\\Gorskie.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\micha\\.nuget\\packages\\firebasedatabase.net\\4.2.0\\firebasedatabase.net.4.2.0.nupkg.sha512",
     "C:\\Users\\micha\\.nuget\\packages\\litedb\\4.1.4\\litedb.4.1.4.nupkg.sha512",

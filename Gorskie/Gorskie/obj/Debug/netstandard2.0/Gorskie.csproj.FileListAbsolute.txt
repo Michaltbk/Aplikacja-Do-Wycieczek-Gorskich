@@ -14,3 +14,19 @@ D:\REPOS\Gorskie\Gorskie\Gorskie\bin\Debug\netstandard2.0\ref\Gorskie.dll
 D:\REPOS\Gorskie\Gorskie\Gorskie\bin\Debug\netstandard2.0\Gorskie.pdb
 D:\REPOS\Gorskie\Gorskie\Gorskie\obj\Debug\netstandard2.0\XamlC.stamp
 D:\REPOS\Gorskie\Gorskie\Gorskie\obj\Debug\netstandard2.0\Glowna.xaml.g.cs
+D:\GITHUB REPO\Aplikacja-Do-Wycieczek-Gorskich\Gorskie\Gorskie\bin\Debug\netstandard2.0\Gorskie.deps.json
+D:\GITHUB REPO\Aplikacja-Do-Wycieczek-Gorskich\Gorskie\Gorskie\bin\Debug\netstandard2.0\Gorskie.dll
+D:\GITHUB REPO\Aplikacja-Do-Wycieczek-Gorskich\Gorskie\Gorskie\bin\Debug\netstandard2.0\ref\Gorskie.dll
+D:\GITHUB REPO\Aplikacja-Do-Wycieczek-Gorskich\Gorskie\Gorskie\bin\Debug\netstandard2.0\Gorskie.pdb
+D:\GITHUB REPO\Aplikacja-Do-Wycieczek-Gorskich\Gorskie\Gorskie\obj\Debug\netstandard2.0\Gorskie.csproj.AssemblyReference.cache
+D:\GITHUB REPO\Aplikacja-Do-Wycieczek-Gorskich\Gorskie\Gorskie\obj\Debug\netstandard2.0\Gorskie.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITHUB REPO\Aplikacja-Do-Wycieczek-Gorskich\Gorskie\Gorskie\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\GITHUB REPO\Aplikacja-Do-Wycieczek-Gorskich\Gorskie\Gorskie\obj\Debug\netstandard2.0\Glowna.xaml.g.cs
+D:\GITHUB REPO\Aplikacja-Do-Wycieczek-Gorskich\Gorskie\Gorskie\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\GITHUB REPO\Aplikacja-Do-Wycieczek-Gorskich\Gorskie\Gorskie\obj\Debug\netstandard2.0\Gorskie.AssemblyInfoInputs.cache
+D:\GITHUB REPO\Aplikacja-Do-Wycieczek-Gorskich\Gorskie\Gorskie\obj\Debug\netstandard2.0\Gorskie.AssemblyInfo.cs
+D:\GITHUB REPO\Aplikacja-Do-Wycieczek-Gorskich\Gorskie\Gorskie\obj\Debug\netstandard2.0\Gorskie.csproj.CoreCompileInputs.cache
+D:\GITHUB REPO\Aplikacja-Do-Wycieczek-Gorskich\Gorskie\Gorskie\obj\Debug\netstandard2.0\XamlC.stamp
+D:\GITHUB REPO\Aplikacja-Do-Wycieczek-Gorskich\Gorskie\Gorskie\obj\Debug\netstandard2.0\Gorskie.dll
+D:\GITHUB REPO\Aplikacja-Do-Wycieczek-Gorskich\Gorskie\Gorskie\obj\Debug\netstandard2.0\refint\Gorskie.dll
+D:\GITHUB REPO\Aplikacja-Do-Wycieczek-Gorskich\Gorskie\Gorskie\obj\Debug\netstandard2.0\Gorskie.pdb

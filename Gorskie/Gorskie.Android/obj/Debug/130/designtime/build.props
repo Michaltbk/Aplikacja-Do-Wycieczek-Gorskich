@@ -25,11 +25,11 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
-_nugetassetstimestamp=638657500012972202
+_nugetassetstimestamp=638657518291354010
 typemapkind=strings-asm
 androidsupportedabis=arm64-v8a
 armeabi-v7a
 x86
 x86_64
 androidmanifestplaceholders=
-projectfullpath=d:\repos\gorskie\gorskie\gorskie.android\gorskie.android.csproj
+projectfullpath=d:\github repo\aplikacja-do-wycieczek-gorskich\gorskie\gorskie.android\gorskie.android.csproj
