@@ -33,6 +33,7 @@
             Grid.Column="2"
             Clicked="friendsButton_Clicked" />
             </Grid>
+
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
